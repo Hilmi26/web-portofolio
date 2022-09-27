@@ -1,2 +1,3 @@
 # web-portofolio
-# html css bootstrap 5
+# html css javascript
+# bootstrap 5
